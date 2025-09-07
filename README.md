@@ -47,7 +47,3 @@ Zomato-data-.csv
 * Cafes mostly accept online orders.
 * Couples prefer \~300 INR cost range.
 * Online orders receive better ratings than offline.
-
----
-
-👉 Do you want me to also **add a “Sample Outputs/Plots” section** in the README so that anyone visiting your repo sees heatmaps/graphs screenshots directly? That usually makes GitHub projects look more attractive.
